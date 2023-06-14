@@ -2,4 +2,7 @@
 game with C++ and openGL
 
 
-![Screenshot 2023-06-14 142135](https://github.com/mbakr0/Connect4/assets/24358810/5997ac90-6d83-4e8f-85ad-58983467fe10)
+
+
+https://github.com/mbakr0/Connect4/assets/24358810/aad15db2-1879-4ddf-a999-55589d468be2
+
