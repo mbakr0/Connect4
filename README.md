@@ -1,2 +1,2 @@
 # Connect4
-game with C++ 
+game with C++ and openGL
